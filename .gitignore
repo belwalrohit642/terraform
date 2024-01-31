@@ -1,0 +1,2 @@
+#local .terraform dir
+/root/.terraform/*
